@@ -1,0 +1,5 @@
+streamlit>=1.35
+pandas>=2.2
+openpyxl>=3.1
+pymupdf>=1.24
+detect-secrets>=1.5
